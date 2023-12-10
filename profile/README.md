@@ -1,5 +1,5 @@
 ###
 Our projects:
 #
-### Game Panel
-https://anchosus.itch.io/gamepanel
+### Project Sky
+https://anchosus.itch.io/projectsky
